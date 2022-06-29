@@ -8,6 +8,7 @@
 LendingClub is the world’s largest peer-to-peer lending banks.  The original dataset included both accepted and rejected applicants.  For the purpose of this project, we worked with the accepted loan applicant data.  The original Kaggle data was created by Nathan George, or the import report using the Kaggle API click on the links below:
 
 > * [Kaggle Dataset](https://www.kaggle.com/datasets/wordsforthewise/lending-club/metadata)
+> * [Words of the Wise](https://github.com/pinobutter/Springboard-Data-Science-Career-Track/blob/main/CAPSTONE%202%20DOCUMENTATION/DATA/LENDING%20CLUB%20DATA%20FILES/Words%20of%20the%20Wise%20LendingClub.png?raw=true
 
 
 ## 2. Data Cleaning
