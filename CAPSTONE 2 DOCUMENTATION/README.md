@@ -11,9 +11,7 @@ LendingClub is the world’s largest peer-to-peer lending banks.  The original d
 > * [Words of the Wise](https://github.com/pinobutter/Springboard-Data-Science-Career-Track/blob/main/CAPSTONE%202%20DOCUMENTATION/DATA/LENDING%20CLUB%20DATA%20FILES/Words%20of%20the%20Wise%20LendingClub.png?raw=true)
 
 
-## 2. Data Cleaning
-
-## 3. Data Cleaning 
+## 2. Data Cleaning 
 
 Used raw dataset from 2007 to 2018 Q4 as available
 Only considered accepted loan applicant data
@@ -33,14 +31,14 @@ Convert categorical features to dummy variables
 <img width="378" alt="image" src="https://user-images.githubusercontent.com/94088917/176325992-f82f5cbc-ac9e-4026-9b3e-0e611d822867.png">
 
 
-## 4. EDA
+## 3. EDA
 
 Explored wide variety of features and their correlations. Review in detail for features of those applicants that were fully paid and those that were written off. 
 
 <img width="295" alt="image" src="https://user-images.githubusercontent.com/94088917/176325817-53afd951-1ada-4e89-9fac-84ab9a1acf9f.png">
 
 
-## 5.Model Selection
+## 4.Model Selection
 
 
 I chose to work with Logistic Regression, Random Forest Classifier and XGBoost Classifer
@@ -48,19 +46,19 @@ I chose to work with Logistic Regression, Random Forest Classifier and XGBoost C
 <img width="444" alt="image" src="https://user-images.githubusercontent.com/94088917/176326142-92b3255b-1e61-4a4e-85aa-95a048117b8d.png">
 
 
-## 7. Comparing Model Performance
+## 5. Comparing Model Performance
 
 The comparison of the models:
 
 <img width="378" alt="image" src="https://user-images.githubusercontent.com/94088917/176326237-c7c2f4ec-a5c1-404e-a379-ca753078f9c8.png">
 
 
-## 8. Takeaways and Future Research
+## 6. Takeaways and Future Research
 
 * In the future, I would love to spend more time working with deep machine learning for prediction capabilities, wherein LendingClub can take an applicant and filter out the type most likely to default, based on common features.
 
 
-## 9. Credits
+## 7. Credits
 
 Thanks to Ricardo Alanis-Tamez for his patience, guidance and for being an amazing Springboard mentor.
 
