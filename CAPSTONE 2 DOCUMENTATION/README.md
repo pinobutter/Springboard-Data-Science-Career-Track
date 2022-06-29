@@ -49,7 +49,7 @@ I chose to work with Logistic Regression, Random Forest Classifier and XGBoost C
 
 ## 7. Comparing Model Performance
 
-In the final predictions notebook, the user can enter their user_id number and receive a list of top ten routes recommended to them:
+The comparison of the models:
 
 <img width="378" alt="image" src="https://user-images.githubusercontent.com/94088917/176326237-c7c2f4ec-a5c1-404e-a379-ca753078f9c8.png">
 
